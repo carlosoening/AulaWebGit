@@ -1,0 +1,20 @@
+/*Inicia o repositório do projeto atual (pasta)*/
+git init
+
+/*Adiciona o arquivo ao Git*/
+git add <nomedoarquivo>
+
+/*Commita as alterações no Git*/
+git commit -m "mensagem de commit"
+
+/*Mostra os commits feitos no Git*/
+git log
+
+/*Mostra o status da branch*/
+git status
+
+/*Cria uma nova branch*/
+git branch <nomedabranch>
+
+/*Muda para uma branch*/
+git checkout <nomedabranch>
